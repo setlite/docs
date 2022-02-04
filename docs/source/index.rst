@@ -16,5 +16,5 @@ Contents
 
 .. toctree::
 
-   Installation
+   installation
    Simple App
