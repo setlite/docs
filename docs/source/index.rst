@@ -1,13 +1,11 @@
-Welcome to Lumache's documentation!
+Welcome to webed documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Webed** (/we'bed/) is a Python library that assists you in making a full fleched web app.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+It's simple and flexible, using the webob module to work like a charm.
+
+Check out the :doc:`installation` section to be able to install webed.
 
 .. note::
 
@@ -18,5 +16,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   Installation
+   Simple App
